@@ -35,3 +35,6 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Contributions:
 - Tyler Evans
+
+## Video Walkthrough:
+- https://youtu.be/c2gP2D0A_hw
