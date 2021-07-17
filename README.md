@@ -1,4 +1,7 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End Code
+
+## Purpose
+This project is to show my knowledge and understanding of creating back-end code that is re-useable and readable to any other developer who may update it in the future.
 
 ## Goals for the Project ( User-Story )
 AS A manager at an internet retail company
@@ -24,8 +27,11 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 
-## Deployed Website
-
+## Technology Used:
+- JavaScript
+- DotEnv
+- Sequelize
+- MySQL
 
 ## Contributions:
 - Tyler Evans
